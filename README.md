@@ -11,4 +11,4 @@ To run this project you need the following :
 
 ## LOSS Function
 
-In this case , i used MSE (Mean Squared Error) as loss function and i get loss 0.016055332 from 50 poch that already be trained 
+In this case , i used MSE (Mean Squared Error) as loss function and i get loss 0.016055332 from 50 epoch that already be trained 
